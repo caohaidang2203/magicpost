@@ -62,7 +62,7 @@ const Header = () => {
                       class="block py-2 pl-3 pr-4 text-black border-b border-gray-100 hover:bg-[#f7941e] rounded lg:bg-transparent lg:text-[#0072bc] lg:p-0"
                       aria-current="page"
                     >
-                      Trang chủ
+                      Trang chủ 1
                     </a>
                   </li>
                   <li>
@@ -111,7 +111,7 @@ const Header = () => {
                       class="block py-2 pl-3 pr-4 text-white bg-[#f7941e] rounded lg:bg-transparent lg:text-[#0072bc] lg:p-0 "
                       aria-current="page"
                     >
-                      Trang chủ
+                      Trang chủ 2
                     </a>
                   </li>
                   <li>
